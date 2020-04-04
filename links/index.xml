@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on Turing Haskell</title>
+    <link>https://www.turinghaskell.com/links/</link>
+    <description>Recent content in Links on Turing Haskell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 18:05:07 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.turinghaskell.com/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>choses préferées</title>
+      <link>https://www.turinghaskell.com/links/links/</link>
+      <pubDate>Mon, 10 Feb 2020 18:05:07 -0500</pubDate>
+      
+      <guid>https://www.turinghaskell.com/links/links/</guid>
+      <description> Gwern Dan Luu Derek Sivers Book Reviews Tyler Cowen Obscure PDFs Philosophize This  </description>
+    </item>
+    
+  </channel>
+</rss>
