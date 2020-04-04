@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turing Haskell</title>
+    <link>https://www.turinghaskell.com/</link>
+    <description>Recent content on Turing Haskell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 18:05:07 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.turinghaskell.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://www.turinghaskell.com/posts/my-first-post/</link>
+      <pubDate>Mon, 10 Feb 2020 18:05:07 -0500</pubDate>
+      
+      <guid>https://www.turinghaskell.com/posts/my-first-post/</guid>
+      <description> Is this markdown?  </description>
+    </item>
+    
+    <item>
+      <title>My Third Post</title>
+      <link>https://www.turinghaskell.com/posts/my-second-post/</link>
+      <pubDate>Mon, 10 Feb 2020 18:05:07 -0500</pubDate>
+      
+      <guid>https://www.turinghaskell.com/posts/my-second-post/</guid>
+      <description> Is this markdown?  </description>
+    </item>
+    
+    <item>
+      <title>What do you want to know</title>
+      <link>https://www.turinghaskell.com/about/about_me/</link>
+      <pubDate>Mon, 10 Feb 2020 18:05:07 -0500</pubDate>
+      
+      <guid>https://www.turinghaskell.com/about/about_me/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
