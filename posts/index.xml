@@ -21,18 +21,5 @@
 ]]></content>
         </item>
         
-        <item>
-            <title>My Third Post</title>
-            <link>https://www.turinghaskell.com/posts/my-second-post/</link>
-            <pubDate>Mon, 10 Feb 2020 18:05:07 -0500</pubDate>
-            
-            <guid>https://www.turinghaskell.com/posts/my-second-post/</guid>
-            <description> Is this markdown?  </description>
-            <content type="html"><![CDATA[<ul>
-<li>Is this markdown?</li>
-</ul>
-]]></content>
-        </item>
-        
     </channel>
 </rss>
