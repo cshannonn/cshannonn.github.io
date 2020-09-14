@@ -3,33 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.turinghaskell.com/posts/gilded_age/</loc>
+    <lastmod>2020-07-01T14:15:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.turinghaskell.com/posts/</loc>
+    <lastmod>2020-07-01T14:15:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.turinghaskell.com/</loc>
+    <lastmod>2020-07-01T14:15:59-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.turinghaskell.com/links/</loc>
     <lastmod>2020-02-10T18:05:07-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.turinghaskell.com/posts/my-first-post/</loc>
-    <lastmod>2020-02-10T18:05:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.turinghaskell.com/posts/</loc>
-    <lastmod>2020-02-10T18:05:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.turinghaskell.com/tags/</loc>
-    <lastmod>2020-02-10T18:05:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.turinghaskell.com/</loc>
-    <lastmod>2020-02-10T18:05:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.turinghaskell.com/tags/untagged/</loc>
-    <lastmod>2020-02-10T18:05:07-05:00</lastmod>
+    <loc>https://www.turinghaskell.com/posts/blog_topics/</loc>
+    <lastmod>2020-01-01T14:15:59-06:00</lastmod>
   </url>
   
   <url>
@@ -39,6 +34,10 @@
   
   <url>
     <loc>https://www.turinghaskell.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.turinghaskell.com/tags/</loc>
   </url>
   
 </urlset>
