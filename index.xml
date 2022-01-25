@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Turing Haskell</title>
+    <link>https://cshannonn.github.io/</link>
+    <description>Recent content on Turing Haskell</description>
+    <image>
+      <url>https://cshannonn.github.io/papermod-cover.png</url>
+      <link>https://cshannonn.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 24 Jan 2022 20:40:11 -0500</lastBuildDate><atom:link href="https://cshannonn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links</title>
+      <link>https://cshannonn.github.io/posts/firstpost/</link>
+      <pubDate>Mon, 24 Jan 2022 20:40:11 -0500</pubDate>
+      
+      <guid>https://cshannonn.github.io/posts/firstpost/</guid>
+      <description>Websites  Gwern Dan Luu Paul Graham Essays Tyler Cowen Marginal Revoluation Obscure PDFs Danny Yee&amp;rsquo;s Book Reviews  Podcasts  Desert Island Discs Philosophize This  Research Papers  Papers We Love Arxiv-Sanity Top 10 Algorithms: SIAM-May 2000 Most Important Statistical Ideas: Gelman - Dec. 2020 On the Measure of Intelligence  Interviews  Peter Thiel  The World According to Thiel Peter Thiel on &amp;ldquo;The Portal&amp;rdquo;    Progressive Era/WWI:  Lawrence in Arabia Paris 1919 The Wise Men Lord&amp;rsquo;s of Finance The Guns of August The Fall of the Ottomans: The Great War in the Middle East The Last Lion Wilson  Philopsophy:  German 270: Sovereignty and the Limits of Globalization and Technology German 277: Stagnation or Progress  Great Books:  T.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
