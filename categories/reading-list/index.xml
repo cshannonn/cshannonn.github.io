@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reading List on Turing Haskell</title>
+    <link>https://cshannonn.github.io/categories/reading-list/</link>
+    <description>Recent content in Reading List on Turing Haskell</description>
+    <image>
+      <url>https://cshannonn.github.io/papermod-cover.png</url>
+      <link>https://cshannonn.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Jan 2021 20:40:11 -0500</lastBuildDate><atom:link href="https://cshannonn.github.io/categories/reading-list/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>German 270: Sovereignty and the Limits of Globalization and Technology</title>
+      <link>https://cshannonn.github.io/posts/german270_thiel/</link>
+      <pubDate>Sun, 24 Jan 2021 20:40:11 -0500</pubDate>
+      
+      <guid>https://cshannonn.github.io/posts/german270_thiel/</guid>
+      <description>The current historical moment appears to be marked by opposition to globalization, which has emerged in many countries in the various forms of populism, restrictive trade policies, attacks on “neo-liberalism,” protest parties and localism. These positions are sometimes accompanied by appeals to national interests and cultural traditions. This new mood is viewed as a break with a previous paradigm of international institutions and “world citizenship.”
+This seminar proceeds from this contemporary reassertion of state sovereignty against market processes and internationalist claims in order to inquire into the historical, theoretical and cultural roots of the problem.</description>
+    </item>
+    
+  </channel>
+</rss>

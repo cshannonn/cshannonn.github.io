@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hugo on Turing Haskell</title>
+    <link>https://cshannonn.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Turing Haskell</description>
+    <image>
+      <url>https://cshannonn.github.io/papermod-cover.png</url>
+      <link>https://cshannonn.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 24 Jan 2022 20:40:11 -0500</lastBuildDate><atom:link href="https://cshannonn.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second_Post</title>
+      <link>https://cshannonn.github.io/posts/secondpost/</link>
+      <pubDate>Mon, 24 Jan 2022 20:40:11 -0500</pubDate>
+      
+      <guid>https://cshannonn.github.io/posts/secondpost/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
